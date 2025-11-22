@@ -4,6 +4,8 @@ To simulate an operational amplifier based Subtractor and verify the outputs.
 ## Apparatus required:
 PC with LT Spice Software
 ## Circuit Diagram:
+<img width="1920" height="1080" alt="Screenshot 2025-11-22 221422" src="https://github.com/user-attachments/assets/54b3901e-b7f5-447f-8d7b-ef42f2a3dbc1" />
+
 
 ## Simulation Procedure:
 1.	Open the Ltspice software
@@ -39,7 +41,11 @@ PC with LT Spice Software
 16.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## Theoritical Calculation:
+![WhatsApp Image 2025-11-22 at 21 28 46_270d263e](https://github.com/user-attachments/assets/94ceab33-10d4-453d-9e62-5e553a73c0c6)
 
 ## Output:
+<img width="1920" height="1080" alt="Screenshot 2025-11-22 221739" src="https://github.com/user-attachments/assets/122eea11-d580-437b-b16a-abdcd9227b1f" />
+
 
 ## Result:
+![WhatsApp Image 2025-11-22 at 21 29 22_88f4c3fb](https://github.com/user-attachments/assets/b9b59290-4edc-4693-9358-0bed8706ae36)
